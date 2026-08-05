@@ -35,7 +35,6 @@ Tenho 15 anos e sou apaixonado por tecnologia, programação e robótica. Atualm
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
 
 ---
