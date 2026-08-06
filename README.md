@@ -1,70 +1,83 @@
+<div align="center">
+
 # Arthur Forster
 
-Estudante de Tecnologia com interesse em desenvolvimento de software, robótica e automação. Atualmente busco uma oportunidade como **Jovem Aprendiz** ou **Estagiário**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente.
+<img src="https://img.shields.io/badge/15%20ANOS-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ENSINO%20MÉDIO-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JOVEM%20APRENDIZ-2EA44F?style=for-the-badge" />
+
+### Desenvolvimento de Software • Robótica • Automação
+
+Tenho **15 anos** e sou estudante do Ensino Médio, apaixonado por tecnologia e desenvolvimento de soluções. Desde cedo venho desenvolvendo projetos pessoais e educacionais nas áreas de programação, robótica e automação, buscando constantemente novos desafios e oportunidades de aprendizado.
+
+Atualmente procuro uma oportunidade como **Jovem Aprendiz** ou **Estagiário**, onde possa contribuir com dedicação, aprender com profissionais experientes e evoluir tecnicamente.
 
 ---
 
-## 🚀 Sobre
+## Sobre
 
-* Ensino Médio em andamento
-* Ex-integrante da equipe **Gods of Innovation (FIRST LEGO League)**
-* Experiência em projetos com Arduino, Raspberry Pi, CNC e automação
-* Inglês intermediário (B1)
+* 🎓 Ensino Médio em andamento
+* 🤖 Ex-integrante da equipe **Gods of Innovation (FIRST LEGO League)**
+* ⚙️ Experiência em projetos com Arduino, Raspberry Pi, CNC e automação
+* 🌐 Inglês intermediário (B1)
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,raspberrypi,docker" />
 </p>
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 ### Forster ERP
 
-Sistema de gestão empresarial desenvolvido com **React** e **TypeScript**, projetado com uma arquitetura modular e escalável.
+Sistema de gestão empresarial desenvolvido em **React** e **TypeScript**, com foco em escalabilidade, organização e interface moderna.
 
 ---
 
 ### Gravadora a Laser
 
-Projeto desenvolvido para a **Escola Aberta CFJL**, voltado à fabricação digital e automação.
+Projeto desenvolvido para a **Escola Aberta CFJL**, utilizando Arduino, CNC e tecnologias de fabricação digital para fins educacionais.
 
-🔗 Repositório:
-**https://github.com/Nottyzada/gravadora-a-laser**
+<p>
+<a href="https://github.com/Nottyzada/gravadora-a-laser">
+<img src="https://img.shields.io/badge/Acessar%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ### Home Assistant
 
-Implementação e configuração do Home Assistant utilizando **Docker**, **Linux** e **Raspberry Pi**.
+Implantação e configuração do Home Assistant em Raspberry Pi e TV Box utilizando Docker para automação residencial.
 
 ---
 
 ### Delphos Software
 
-Software para criação e execução de macros, inspirado em dispositivos do tipo **Stream Deck**.
+Aplicação para criação e execução de macros, inspirada em dispositivos do tipo Stream Deck.
 
 ---
 
-## 📚 Cursos
+## Cursos
 
 * Indústria 4.0
 * Introdução à Inovação e Criatividade
@@ -75,10 +88,24 @@ Software para criação e execução de macros, inspirado em dispositivos do tip
 
 ---
 
-## 📫 Contato
+## Experiência
 
-**E-mail**
-📧 [arthuremanuel2918@gmail.com](mailto:arthuremanuel2918@gmail.com)
+### FIRST LEGO League (FLL)
 
-**GitHub**
-💻 https://github.com/Nottyzada
+Participação na equipe **Gods of Innovation**, atuando no desenvolvimento de robôs, programação, projetos de inovação e apresentações técnicas, adquirindo experiência em trabalho em equipe, resolução de problemas e metodologias de projeto.
+
+---
+
+## Contato
+
+<p>
+<a href="mailto:arthuremanuel2918@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Nottyzada">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</div>
