@@ -1,101 +1,147 @@
 # Olá, eu sou Arthur Forster! 👋
 
-> Estudante de Tecnologia | Robótica | Automação | Desenvolvimento de Software
+<h3>💻 Estudante de Tecnologia • Robótica • Automação • Desenvolvimento de Software</h3>
 
-Tenho 15 anos e sou apaixonado por tecnologia, programação e robótica. Atualmente busco uma oportunidade como **Jovem Aprendiz** ou **Estagiário** para aplicar meus conhecimentos, aprender com profissionais da área e evoluir tecnicamente.
+<p>
+Tenho <strong>15 anos</strong> e sou apaixonado por tecnologia, programação e robótica. Estou em busca de uma oportunidade como <strong>Jovem Aprendiz</strong> ou <strong>Estagiário</strong>, onde eu possa aprender com profissionais experientes, desenvolver novas habilidades e contribuir com projetos reais.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Idade-15-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Foco-Tecnologia-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Disponível-Para%20Aprendiz-green?style=for-the-badge">
+</p>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-- Ensino Médio em andamento
-- Ex-integrante da equipe de robótica **Gods of Innovation (FLL)**
-- Experiência com projetos de automação, Arduino, Raspberry Pi e CNC
-- Inglês intermediário (B1)
+* 🎓 Ensino Médio em andamento
+* 🤖 Ex-integrante da equipe **Gods of Innovation (FIRST LEGO League)**
+* ⚙️ Experiência com Arduino, Raspberry Pi, CNC e Automação
+* 🌐 Inglês Intermediário (B1)
+* 📚 Sempre aprendendo novas tecnologias
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 ### Linguagens
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
 
-### Frameworks
+### Frameworks e Runtime
 
-![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
 
 ### Ferramentas
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,raspberrypi" />
+</p>
 
 ---
 
-## 📂 Projetos em destaque
+# 📂 Projetos
 
-### Forster ERP
-Sistema de gestão empresarial desenvolvido em React + TypeScript.
+## 🖥️ Forster ERP
 
-- Sistema modular
-- Interface moderna
-- Estrutura escalável
-- Projeto não finalizado
+Sistema ERP desenvolvido em **React + TypeScript**.
 
----
+**Principais recursos**
 
-### Home Assistant
-
-Instalação e configuração do Home Assistant em Raspberry Pi e TV Box utilizando Docker.
+* Interface moderna
+* Sistema modular
+* Estrutura escalável
+* Projeto em desenvolvimento
 
 ---
 
-### Gravadora a Laser
+## 🔥 Gravadora a Laser
 
-Desenvolvimento de uma gravadora a laser para projetos educacionais da Escola Aberta CFJL.
+Projeto desenvolvido para a **Escola Aberta CFJL**, com foco em fabricação digital e automação.
 
----
+### Tecnologias
 
-### Delphos Software
+* Arduino
+* CNC Shield
+* Laser
+* Desenvolvimento mecânico
+* Documentação técnica
 
-Software desenvolvido para criação de macros, inspirado em um Stream Deck.
-
----
-
-## 📚 Cursos
-
-- Indústria 4.0
-- Introdução à Inovação e Criatividade
-- Mecânica Industrial
-- Preparação para o Mundo do Trabalho
-- Programação de Arduino
-- Robótica LEGO Zoom
+🔗 **Repositório:**
+https://github.com/Nottyzada/gravadora-a-laser
 
 ---
 
-## 🏆 Experiência
+## 🏠 Home Assistant
 
-### FIRST LEGO League (FLL)
+Instalação e configuração do Home Assistant utilizando Raspberry Pi e TV Box com Docker.
 
-Participação na equipe **Gods of Innovation**, desenvolvendo projetos de inovação, robótica, programação e trabalho em equipe.
-
----
-
-## 📫 Contato
-
-📧 **Email:** arthuremanuel2918@gmail.com
-
-📱 **Telefone:** (+61) 94756-5017
-
-💻 **GitHub:** https://github.com/Nottyzada
+* Docker
+* Linux
+* Automação Residencial
+* Raspberry Pi
 
 ---
 
+## 🎮 Delphos Software
+
+Software inspirado no Stream Deck para criação e execução de macros personalizadas.
+
+---
+
+# 📚 Cursos
+
+* Indústria 4.0
+* Introdução à Inovação e Criatividade
+* Mecânica Industrial
+* Preparação para o Mundo do Trabalho
+* Programação com Arduino
+* Robótica LEGO Zoom
+
+---
+
+# 🏆 Experiência
+
+## FIRST LEGO League (FLL)
+
+Participação na equipe **Gods of Innovation**, atuando em:
+
+* Desenvolvimento de robôs LEGO
+* Programação
+* Projeto de inovação
+* Trabalho em equipe
+* Apresentações técnicas
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nottyzada&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottyzada&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Contato
+
+📧 **Email**
+[arthuremanuel2918@gmail.com](mailto:arthuremanuel2918@gmail.com)
+
+📱 **Telefone**
+(+61) 94756-5017
+
+💻 **GitHub**
+https://github.com/Nottyzada
+
+---
+
+<p align="center">
 ⭐ Obrigado por visitar meu perfil!
+</p>
