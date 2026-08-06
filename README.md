@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/ENSINO%20MÉDIO-0A66C2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JOVEM%20APRENDIZ-2EA44F?style=for-the-badge" />
 
-### Desenvolvimento de Software • Robótica • Automação
+### Coder • Robótica • Automação
 
 Tenho **15 anos** e sou estudante do Ensino Médio, apaixonado por tecnologia e desenvolvimento de soluções. Desde cedo venho desenvolvendo projetos pessoais e educacionais nas áreas de programação, robótica e automação, buscando constantemente novos desafios e oportunidades de aprendizado.
 
