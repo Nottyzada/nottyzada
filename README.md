@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./images/banner.gif" alt="Banner">
+  <img src="./images/banner.gif" alt="Banner" width="100%">
 </p>
 
 <img src="https://img.shields.io/badge/15%20ANOS-6A5ACD?style=for-the-badge" />
