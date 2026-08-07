@@ -1,6 +1,8 @@
 <div align="center">
 
-# Arthur Forster
+<p align="center">
+  <img src="./images/banner.gif" alt="Banner">
+</p>
 
 <img src="https://img.shields.io/badge/15%20ANOS-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ENSINO%20MÉDIO-0A66C2?style=for-the-badge" />
