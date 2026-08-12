@@ -107,7 +107,7 @@ Participação na equipe **Gods of Innovation**, atuando no desenvolvimento de r
 
 ---
 
-## Contato
+## Links
 
 <p>
 <a href="mailto:arthuremanuel2918@gmail.com">
