@@ -18,10 +18,10 @@ Atualmente procuro uma oportunidade como **Jovem Aprendiz** ou **Estagiário**, 
 
 ## Sobre
 
-* 🎓 Ensino Médio em andamento
-* 🤖 Ex-integrante da equipe **Gods of Innovation (FIRST LEGO League)**
-* ⚙️ Experiência em projetos com Arduino, Raspberry Pi, CNC e automação
-* 🌐 Inglês intermediário (B1)
+- 🎓 Ensino Médio em andamento
+- 🤖 Ex-integrante da equipe **Gods of Innovation (FIRST LEGO League)**
+- ⚙️ Experiência em projetos com Arduino, Raspberry Pi, CNC e automação
+- 🌐 Inglês intermediário (B1)
 
 ---
 
@@ -79,14 +79,23 @@ Aplicação para criação e execução de macros, inspirada em dispositivos do 
 
 ---
 
-## Cursos
+## Certificados
 
-* Indústria 4.0
-* Introdução à Inovação e Criatividade
-* Mecânica Industrial
-* Preparação para o Mundo do Trabalho
-* Programação de Arduino
-* Robótica LEGO Zoom
+### FIRST LEGO League — 2026
+
+Certificado referente à participação na **FIRST LEGO League (FLL)** em 2026.
+
+<p>
+<a href="https://github.com/Nottyzada/nottyzada/blob/main/certificados/FLL%20%282026%29.pdf">
+<img src="https://img.shields.io/badge/Visualizar%20Certificado-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/Nottyzada/nottyzada/tree/main/certificados">
+<img src="https://img.shields.io/badge/Ver%20Todos%20os%20Certificados-6A5ACD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
@@ -104,14 +113,14 @@ Participação na equipe **Gods of Innovation**, atuando no desenvolvimento de r
 <a href="mailto:arthuremanuel2918@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  
-  <a href="https://wa.me/5561947565017">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 
-  <a href="https://github.com/Nottyzada">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://wa.me/5561947565017">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://github.com/Nottyzada">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 </div>
