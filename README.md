@@ -121,6 +121,10 @@ Participação na equipe **Gods of Innovation**, atuando no desenvolvimento de r
 <a href="https://github.com/Nottyzada">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://linktr.ee/nottyzada">
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 </p>
 
 </div>
